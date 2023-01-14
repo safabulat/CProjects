@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "unistd.h": "c",
+        "filesystem.hpp": "c",
+        "stdbool.h": "c",
+        "stat.h": "c",
+        "file_status.hpp": "c",
+        "path.hpp": "c",
+        "dirent.h": "c",
+        "stdio.h": "c",
+        "string_file.hpp": "c",
+        "stdlib.h": "c"
+    }
+}
